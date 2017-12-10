@@ -1,0 +1,6 @@
+framework module Pods_WhetherApp {
+  umbrella header "Pods-WhetherApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
